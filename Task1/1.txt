@@ -1,3 +1,0 @@
-{
-  "languages": ["Python", "JavaScript", "Java", "C++", "Swift", "C", "Ruby", "Haskell"]
-}
